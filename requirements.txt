@@ -1,0 +1,7 @@
+Flask
+numpy
+tensorflow
+tflite-model-maker
+pycocotools
+tflite-support
+pillow
